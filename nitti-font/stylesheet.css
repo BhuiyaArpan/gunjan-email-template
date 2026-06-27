@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Times LT Pro';
+    src: url('TimesLTPro-Roman.woff2') format('woff2'),
+        url('TimesLTPro-Roman.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nitti';
+    src: url('Nitti.woff2') format('woff2'),
+        url('Nitti.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
